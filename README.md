@@ -1,7 +1,8 @@
 # Traffic Light with 7-Segment Counter – Arduino Project
 
 ## Overview
-This project simulates a traffic light system using red, yellow, and green LEDs. A one-digit 7-segment display counts seconds for each traffic light phase, demonstrating sequencing and timing in Arduino projects.
+This project is a traffic light system using red, yellow, and green LEDs.
+A one-digit 7-segment display counts seconds for each light phase. It shows how traffic lights sequence and how timing works using Arduino.
 
 ## Objective
 - Learn to control multiple digital outputs simultaneously
@@ -22,7 +23,7 @@ This project simulates a traffic light system using red, yellow, and green LEDs.
 - 9V Battery Clip to DC Barrel Jack
 
 ## Circuit Diagram
-![Circuit Diagram](images/)
+![Circuit Diagram](images/street_controlled_photo2.jpg)
 
 ## How It Works
 1. Each traffic light LED (red, yellow, green) is connected to a separate Arduino pin.  
