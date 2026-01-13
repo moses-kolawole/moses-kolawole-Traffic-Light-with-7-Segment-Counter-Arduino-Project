@@ -23,7 +23,7 @@ A one-digit 7-segment display counts seconds for each light phase. It shows how 
 - 9V Battery Clip to DC Barrel Jack
 
 ## Circuit Diagram
-![Circuit Diagram](images/street_controlled_photo1.jpg)
+![Circuit Diagram](images/TRAFFIC_LIGHT_COUNTER_PHOTO_1.jpg)
 
 ## How It Works
 1. Each traffic light LED (red, yellow, green) is connected to a separate Arduino pin.  
